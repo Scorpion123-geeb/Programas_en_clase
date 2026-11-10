@@ -34,7 +34,7 @@ int main (void){
                 }
             break;
         case 3:
-                if(P>20){
+            if(P>20){
                 c=K*3;
                 p=c*P;
             }
